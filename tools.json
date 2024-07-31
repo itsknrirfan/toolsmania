@@ -16,6 +16,12 @@
         "name": "noir",
         "description": "Attack surface detector that identifies endpoints by static analysis.",
         "website":"https://github.com/owasp-noir/noir"
+    },
+    {
+        "id": 4,
+        "name": "nowafpls",
+        "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
+        "website":"https://github.com/assetnote/nowafpls"
     }
     
 ]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "bkcrack",
+        "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack.",
+        "website":"https://github.com/kimci86/bkcrack"
+    },
+     {
+        "id": 2,
+        "name": "porch pirate",
+        "description": "Find API endpoints and secrets committed on Postman.",
+        "website":"https://github.com/MandConsultingGroup/porch-pirate"
+    }
+    
+]

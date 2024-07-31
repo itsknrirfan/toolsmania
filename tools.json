@@ -10,6 +10,12 @@
         "name": "porch pirate",
         "description": "Find API endpoints and secrets committed on Postman.",
         "website":"https://github.com/MandConsultingGroup/porch-pirate"
+    },
+    {
+        "id": 3,
+        "name": "noir",
+        "description": "Attack surface detector that identifies endpoints by static analysis.",
+        "website":"https://github.com/owasp-noir/noir"
     }
     
 ]

@@ -22,6 +22,12 @@
         "name": "nowafpls",
         "description": "Burp Plugin to Bypass WAFs through the insertion of Junk Data.",
         "website":"https://github.com/assetnote/nowafpls"
+    },
+    {
+        "id": 5,
+        "name": "shodanx",
+        "description": "ShodanX is a tool to gather information of targets using shodan dorks.",
+        "website":"https://github.com/RevoltSecurities/ShodanX"
     }
     
 ]

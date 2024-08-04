@@ -31,12 +31,6 @@
     },
      {
         "id": 6,
-        "name": "cloudbunny",
-        "description": "tool to capture the real IP of the server that uses a WAF as a proxy or protection.",
-        "website":"https://github.com/Warflop/cloudbunny"
-    },
-     {
-        "id": 7,
         "name": "dummy",
         "description": "Generator of static files(csv, jpeg, png, pdf) for testing file upload.",
         "website":"https://github.com/sterrasec/dummy"

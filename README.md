@@ -6,3 +6,4 @@ Link: https://itsknrirfan.github.io/toolsmania/
 
 # To Do
 * Introduce a 'Tags' column for tools and enable search functionality.
+* Stick search functionality on top.
